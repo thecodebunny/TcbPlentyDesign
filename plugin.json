@@ -1,0 +1,11 @@
+{
+    "name"              :   "TcbPlentyDesign",
+    "namespace"         :   "TcbPlentyDesign",
+    "type"              :   "theme",
+    "version"           :   "0.0.1",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "Modern Theme for plentyShop",
+    "author"            :   "Hemang Vyas",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "TcbPlentyDesign\\Providers\\TcbPlentyDesignServiceProvider"
+}
